@@ -3,7 +3,16 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/aneri/Some-Application/first/app/src/main/res/layout/activity_main.xml" value="0.17708333333333334" />
+        <entry key="..\:/aneri/Some-Application/first/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.236" />
+        <entry key="..\:/aneri/Some-Application/first/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.236" />
+        <entry key="..\:/aneri/Some-Application/first/app/src/main/res/drawable/ic_home_black_24dp.xml" value="0.236" />
+        <entry key="..\:/aneri/Some-Application/first/app/src/main/res/drawable/ic_launcher_background.xml" value="0.236" />
+        <entry key="..\:/aneri/Some-Application/first/app/src/main/res/drawable/ic_notifications_black_24dp.xml" value="0.236" />
+        <entry key="..\:/aneri/Some-Application/first/app/src/main/res/drawable/icons8_love_50.xml" value="0.1955" />
+        <entry key="..\:/aneri/Some-Application/first/app/src/main/res/drawable/my_gradient_drawable.xml" value="0.236" />
+        <entry key="..\:/aneri/Some-Application/first/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/aneri/Some-Application/first/app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="..\:/aneri/Some-Application/first/app/src/main/res/menu/bottom_nav_menu.xml" value="0.27447916666666666" />
       </map>
     </option>
   </component>
